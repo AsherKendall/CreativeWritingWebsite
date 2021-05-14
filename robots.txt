@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://asherkendall.github.io/CreativeWritingWebsite/sitemap.xml
